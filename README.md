@@ -10,11 +10,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-My name is Carlos, I am studying Programmer Analyst at the Instituto Profesional Latinoamericano de Comercio Exterior.
+My name is Carlos, but they call me 'Volker'.
+
+I am studying Programmer Analyst at the Instituto Profesional Latinoamericano de Comercio Exterior.
 
 - 🔭 I’m currently working on Chilean Army.
 - 🌱 I’m currently learning Python, C#, Kotlin, HTML, CSS, JS.
 - 📫 How to reach me: https://www.linkedin.com/in/carlos-vega-alarcon/
-- 😄 Pronouns: "Volker".
 - ⚡ Fun fact: I like to skateblading.
 
