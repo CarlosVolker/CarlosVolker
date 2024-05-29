@@ -17,7 +17,7 @@ I am studying Programmer Analyst at the Instituto Profesional Latinoamericano de
 - 🔭 I’m currently working on Chilean Army.
 - 🌱 I’m currently learning Python, C#, Kotlin, HTML, CSS, JS.
 - 📫 How to reach me:
-  - [LinkIn](https://www.linkedin.com/in/carlos-vega-alarcon)
+  - [LinkedIn](https://www.linkedin.com/in/carlos-vega-alarcon)
   - [Instagram](https://www.instagram.com/carlosvolkeralarcon)
 - ⚡ Fun fact: I like to skateblading.
 
